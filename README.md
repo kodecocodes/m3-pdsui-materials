@@ -6,12 +6,12 @@ This repo contains all the downloadable materials and projects associated with t
 
 ### [Sharing & State Management in SwiftUI Course](https://www.kodeco.com/ios/paths/sharing-state-management-swiftui)
 
-- This course is part of [iOS Ready Program](https://www.kodeco.com/ios/programs/ios-ready), which you can take as either on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
+- This course is part of [Beginning iOS & Swift Program](https://www.kodeco.com/ios/programs/beginning-ios), which you can take as either on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
 
 
 ---
 
-Each edition has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent edition.
+Each version has its own branch, named `versions/[VERSION]`. The default branch for this repo is for the most recent version.
 
 ## Release History
 
